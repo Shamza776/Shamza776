@@ -14,10 +14,8 @@
 
 ###
 
-
-
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/ZvLUtG6BZkBi0/giphy.gif"  />
+  <img height="200" padding="20px" src="https://media.giphy.com/media/ZvLUtG6BZkBi0/giphy.gif"  />
 </div>
 
 ###
