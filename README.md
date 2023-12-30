@@ -1,4 +1,8 @@
-<p align="left">Hello im Shamza</p>
+<p align="left" font-size ="50px" >Hello There! &#128075;&#127998; <br> I'm Shamza &#128105;&#8205;&#128187; <br>
+</p>
+
+<p>&#x1F680; Aspiring Front-End Developer and Python Enthusiast &#x1F40D; | Crafting pixel-perfect experiences for the web &#x1F310;, bringing ideas to life through elegant code &#127775; | Current student on a coding odyssey &#x1F4BB; | Turning caffeine into code &#x0030;&#xFE0F;&#x20E3;&#x2615;</p>
+</p>
 
 ###
 
