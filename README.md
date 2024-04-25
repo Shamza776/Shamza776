@@ -2,7 +2,7 @@
 <h1 align="left" style="font-size: 3em; font-family: 'Arial', sans-serif;">Hello There! &#128075;&#127998;</h1>
 
 <!-- Introduction -->
-<p>&#x1F680; Hey, I'm Shamza! &#128105;&#8205;&#128187;</p>
+<p>&#x1F680; Hey, I'm Jamoza! &#128105;&#8205;&#128187;</p>
 
 <!-- Description -->
 <p style="font-size: 1.5em; font-family: 'Georgia', serif;">
