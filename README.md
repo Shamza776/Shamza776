@@ -62,7 +62,6 @@
 <!-- Contact and Collaboration -->
 <div align="left">
   <p style="font-size: 1.2em; font-family: 'Georgia', serif;">
-    💡 Currently learning advanced Solidity patterns, building dApps with React, and smart contract audits.  
     🤝 Open to collaboration and available for freelance or part-time opportunities in blockchain and backend development.  
     📬 Reach out to me via:
   </p>
